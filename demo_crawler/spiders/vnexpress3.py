@@ -2,7 +2,7 @@ import json
 import scrapy
 from datetime import datetime
 
-OUTPUT_FILENAME = 'output/vnexpress/vnexpress3_{}.txt'.format(datetime.now().strftime('%Y%m%d_%H%M%S'))
+OUTPUT_FILENAME = 'output/vnexpress/vnexpress3_{}.csv'.format(datetime.now().strftime('%Y%m%d_%H%M%S'))
 
 
 class VnexpressSpider(scrapy.Spider):
