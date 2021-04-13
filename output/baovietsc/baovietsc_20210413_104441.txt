@@ -1,3 +1,0 @@
-{"link": "https://bvsc.com.vn/Reports/8402/b.aspx", "nguồn": "Công ty Cổ phần Chứng khoán Bảo Việt", "ngành": "Hàng tiêu dùng", "pdf": "https://bvsc.com.vn/Handlers/DownloadReport.ashx?ReportID=8402"}
-{"link": "https://bvsc.com.vn/Reports/8401/b.aspx", "nguồn": "Công ty Cổ phần Chứng khoán Bảo Việt", "ngành": "Tài chính", "pdf": "https://bvsc.com.vn/Handlers/DownloadReport.ashx?ReportID=8401"}
-{"link": "https://bvsc.com.vn/Reports/8400/b.aspx", "nguồn": "Công ty Cổ phần Chứng khoán Bảo Việt", "ngành": "Hàng tiêu dùng", "pdf": "https://bvsc.com.vn/Handlers/DownloadReport.ashx?ReportID=8400"}

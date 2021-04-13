@@ -1,0 +1,7 @@
+{"link": "https://bvsc.com.vn/Reports/8001/b.aspx", "nguồn": "Công ty Cổ phần Chứng khoán Bảo Việt", "ngành": null, "pdf": "https://bvsc.com.vn/Handlers/DownloadReport.ashx?ReportID=8001"}
+{"link": "https://bvsc.com.vn/Reports/8002/b.aspx", "nguồn": "Công ty Cổ phần Chứng khoán Bảo Việt", "ngành": null, "pdf": "https://bvsc.com.vn/Handlers/DownloadReport.ashx?ReportID=8002"}
+{"link": "https://bvsc.com.vn/Reports/8003/b.aspx", "nguồn": "Công ty Cổ phần Chứng khoán Bảo Việt", "ngành": null, "pdf": "https://bvsc.com.vn/Handlers/DownloadReport.ashx?ReportID=8003"}
+{"link": "https://bvsc.com.vn/Reports/8004/b.aspx", "nguồn": "Công ty Cổ phần Chứng khoán Bảo Việt", "ngành": "Công nghiệp", "pdf": "https://bvsc.com.vn/Handlers/DownloadReport.ashx?ReportID=8004"}
+{"link": "https://bvsc.com.vn/Reports/8005/b.aspx", "nguồn": "Công ty Cổ phần Chứng khoán Bảo Việt", "ngành": null, "pdf": "https://bvsc.com.vn/Handlers/DownloadReport.ashx?ReportID=8005"}
+{"link": "https://bvsc.com.vn/Reports/8006/b.aspx", "nguồn": "Công ty Cổ phần Chứng khoán Bảo Việt", "ngành": null, "pdf": "https://bvsc.com.vn/Handlers/DownloadReport.ashx?ReportID=8006"}
+{"link": "https://bvsc.com.vn/Reports/8007/b.aspx", "nguồn": "Công ty Cổ phần Chứng khoán Bảo Việt", "ngành": null, "pdf": "https://bvsc.com.vn/Handlers/DownloadReport.ashx?ReportID=8007"}
