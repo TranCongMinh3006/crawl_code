@@ -131,9 +131,9 @@ pdf_list=[]
 class VnexpressSpider(scrapy.Spider):
     name = 'baovietsc'
     allowed_domains = ['bvsc.com.vn']
-    start_urls = ['https://bvsc.com.vn/Reports/1/b.aspx']
+    start_urls = ['https://bvsc.com.vn/Reports/8448/b.aspx']
     CRAWLED_COUNT = 0
-    report_id = 1
+    report_id = 8448
 
     def parse(self, response):
         print("alo alo alo")
@@ -153,7 +153,7 @@ class VnexpressSpider(scrapy.Spider):
             doanh_nghiep_list.append(doanh_nghiep)
             pdf_list.append(pdf)
 
-        self.report_id = self.report_id + 1
+        self.report_id = self.report_id - 1
         print("--------------------------------------------------------------------------")
         print(self.report_id)
         print("--------------------------------------------------------------------------")
